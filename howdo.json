@@ -1,75 +1,93 @@
-[{
-        "id": "1",
-        "title": "Bubble",
-        "detail": "bubble animated when mouse move",
-        "picture_url": "https://www.artdvp.me/port/data/picture/bubble-min.png",
-        "path_url": "https://www.artdvp.me/isphins/data/code_project/cadm/bubbles/assets/",
-        "path_src": ""
-    }, {
-        "id": "2",
-        "title": "RGB Input",
-        "detail": "RGB Color Text by Jquery",
-        "picture_url": "https://www.artdvp.me/port/data/picture/rgb_jquery-min.png",
-        "path_url": "https://www.artdvp.me/isphins/data/code_project/test_job/t-sirisoft/",
-        "path_src": ""
-    }, {
-        "id": "3",
-        "title": "Read JSON File",
-        "detail": "Read File by Jquery",
-        "picture_url": "https://www.artdvp.me/port/data/picture/read_json-min.png",
-        "path_url": "https://www.artdvp.me/isphins/data/code_project/test_job/t-zenalyse/",
-        "path_src": ""
-    }, {
-        "id": "4",
-        "title": "PWA Demo",
-        "detail": "First PWA App by deploy on firebase",
-        "picture_url": "https://www.artdvp.me/port/data/picture/pwa-min.png",
-        "path_url": "https://isphins-pwa.firebaseapp.com/index.html",
-        "path_src": ""
-    }, {
-        "id": "5",
-        "title": "Test Boostrap",
-        "detail": "Bootstrap Test layout",
-        "picture_url": "https://www.artdvp.me/port/data/picture/image_gallery.png",
-        "path_url": "https://www.artdvp.me/isphins/data/code_project/udm/",
-        "path_src": ""
-    }, {
-        "id": "6",
-        "title": "Boostrap Cover Page",
-        "detail": "Test Boostrap Cover Page",
-        "picture_url": "https://www.artdvp.me/port/data/picture/image_cover_bg.png",
-        "path_url": "https://www.artdvp.me/isphins/data/code_project/coverpage/",
-        "path_src": ""
-    }, {
-        "id": "7",
-        "title": "Photoshop Bucket",
-        "detail": "Photoshop effect",
-        "picture_url": "https://www.artdvp.me/port/data/picture/Photoshop-Effects.png",
-        "path_url": "https://www.artdvp.me/port/photoshop/index.html",
-        "path_src": ""
-    },
-    {
-        "id": "8",
-        "title": "Flipboard",
-        "detail": "Flipboard Jquery",
-        "picture_url": "https://www.artdvp.me/port/data/picture/codec_4.jpg",
-        "path_url": "https://www.artdvp.me/port/codeacademy/makeweb-1/c4_flipboard.html",
-        "path_src": ""
-    },
-    {
-        "id": "9",
-        "title": "Slidebar Left",
-        "detail": "Slide Left",
-        "picture_url": "https://www.artdvp.me/port/data/picture/codec_1.jpg",
-        "path_url": "https://www.artdvp.me/port/codeacademy/makeweb-1/c1_index.html",
-        "path_src": ""
-    },
-    {
-        "id": "10",
-        "title": "Landing bootstrap",
-        "detail": "landing page bootstrap",
-        "picture_url": "https://storage.googleapis.com/clipular-clips/5170954185736192/4974776987942912?GoogleAccessId=clipular2012@appspot.gserviceaccount.com&Expires=1508223107&Signature=hTntii4hvbhcC6Wl2GbWNLMZd4i0xYkAQA3y0qPVSDeJKZW0C07V%2FV7DeqfFLj%2Fcm11PFvuYDLAlkD1MNlFaf3EJqdU2xpuT1C07JZkWRvKH2gyZTnlzD0uV2fJeLv%2BeNqgiwhdq4jPx9CC2TAh%2B36zOM%2B3hC0xIsVkwDp2wzrZg9FTzKOwHKxsKOEiPYQjbl04UxcQzgt6u06eP0czvaS4sJj%2FDZ%2FCNcw%2BgqzVq9C0WvEyCn48Xhv8vRBJPSULSWh9at8e8u4UFzFvY9i3pnHjys%2B%2BGPgZuM8npGJCUGHzsR8wMu5G1tf00dW8MZeSjvX2ZglgjEvXeM%2FT4s7mdBg%3D%3D&md5=de96ace129455218a2ff7a2e9cf19554&NOT_A_LINK",
-        "path_url": "https://www.artdvp.me/landing-bootstrap/",
-        "path_src": ""
-    }
+[
+  {
+    "title": "Bubble",
+    "detail": "bubble animated when mouse move",
+    "picture_url": "https://image.ibb.co/fOo5Ow/bubble_min.png",
+    "path_url": "https://www.artdvp.me/isphins/data/code_project/cadm/bubbles/assets/",
+    "path_src": ""
+  },
+  {
+    "title": "Read JSON File",
+    "detail": "Read File by Jquery",
+    "picture_url": "https://image.ibb.co/nn8GVb/read_json_min.png",
+    "path_url": "https://www.artdvp.me/isphins/data/code_project/test_job/t-zenalyse/",
+    "path_src": ""
+  },
+  {
+    "title": "RGB Input",
+    "detail": "RGB Color Text by Jquery",
+    "picture_url": "https://image.ibb.co/mupC3w/rgb_jquery_min.png",
+    "path_url": "https://www.artdvp.me/isphins/data/code_project/test_job/t-sirisoft/",
+    "path_src": ""
+  },
+  {
+    "title": "PWA Demo",
+    "detail": "First PWA App by deploy on firebase",
+    "picture_url": "https://image.ibb.co/fo9OAb/pwa_min.png",
+    "path_url": "https://isphins-pwa.firebaseapp.com/index.html",
+    "path_src": ""
+  },
+  {
+    "title": "Test Boostrap",
+    "detail": "Bootstrap Test layout",
+    "picture_url": "https://image.ibb.co/bs3iAb/image_gallery.jpg",
+    "path_url": "https://www.artdvp.me/isphins/data/code_project/udm/",
+    "path_src": ""
+  },
+  {
+    "title": "Boostrap Cover Page",
+    "detail": "Test Boostrap Cover Page",
+    "picture_url": "https://image.ibb.co/cKEC3w/image_cover_bg.jpg",
+    "path_url": "https://www.artdvp.me/isphins/data/code_project/coverpage/",
+    "path_src": ""
+  },
+  {
+    "title": "Photoshop Bucket",
+    "detail": "Photoshop effect",
+    "picture_url": "https://image.ibb.co/d6JGVb/Photoshop_Effects.jpg",
+    "path_url": "https://www.artdvp.me/port/photoshop/index.html",
+    "path_src": ""
+  },
+  {
+    "title": "Slidebar Left",
+    "detail": "Slide Left",
+    "picture_url": "https://image.ibb.co/kWNziw/6130262550511616.jpg",
+    "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c1_index.html",
+    "path_src": ""
+  },
+  {
+    "title": "News Readers",
+    "detail": "jQuery News Readers",
+    "picture_url": "https://image.ibb.co/dXXMwG/codec_2.jpg",
+    "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c2_newsreaders.html",
+    "path_src": ""
+  },
+   {
+    "title": "Status Update",
+    "detail": "jQuery update",
+    "picture_url": "https://image.ibb.co/iOMQOw/codec_3.png",
+    "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c3_statusupdate.html",
+    "path_src": ""
+  },
+  {
+    "title": "Flipboard",
+    "detail": "Flipboard Jquery",
+    "picture_url": "https://image.ibb.co/fKxbVb/codec_4.jpg",
+    "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c4_flipboard.html",
+    "path_src": ""
+  },
+  {
+    "title": "Landing bootstrap",
+    "detail": "landing page bootstrap",
+    "picture_url": "https://image.ibb.co/mzH2mG/Agency_Start_Bootstrap.jpg",
+    "path_url": "https://www.artdvp.me/landing-bootstrap/",
+    "path_src": ""
+  },
+  {
+    "title": "Sass light Bootstrap",
+    "detail": "sass bootstrap",
+    "picture_url": "https://image.ibb.co/fKmbfb/sasslight.jpg",
+    "path_url": "https://www.artdvp.me/learning/howdo/sasslight/",
+    "path_src": ""
+  }
 ]
