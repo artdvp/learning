@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Drum Kit</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="key">
+        <div class="key" data-key="65">
+            <kbd>A</kbd><span class="sound">CLAP</span>
+        </div>
+        <div class="key" data-key="83">
+            <kbd>S</kbd><span class="sound">hihat</span>
+        </div>
+        <div class="key" data-key="38">
+            <kbd>D</kbd><span class="sound">kick</span>
+        </div>
+        <div class="key" data-key="70">
+            <kbd>F</kbd><span class="sound">openhat</span>
+        </div>
+        <div class="key" data-key="71">
+            <kbd>G</kbd><span class="sound">boom</span>
+        </div>
+        <div class="key" data-key="72">
+            <kbd>H</kbd><span class="sound">ride</span>
+        </div>
+        <div class="key" data-key="74">
+            <kbd>J</kbd><span class="sound">snare</span>
+        </div>
+        <div class="key" data-key="75">
+            <kbd>K</kbd><span class="sound">tom</span>
+        </div>
+        <div class="key" data-key="76">
+            <kbd>L</kbd><span class="sound">tink</span>
+        </div>
+       	<audio src="sounds/" data-key="65"></audio>
+       	<audio src="sounds/" data-key="83"></audio>
+       	<audio src="sounds/" data-key="68"></audio>
+       	<audio src="sounds/" data-key="70"></audio>
+       	<audio src="sounds/" data-key="71"></audio>
+       	<audio src="sounds/" data-key="72"></audio>
+       	<audio src="sounds/" data-key="74"></audio>
+       	<audio src="sounds/" data-key="75"></audio>
+       	<audio src="sounds/" data-key="76"></audio>
+    </div>
+    <script type="">
+    	window.addEventListener("keydown",function(e){
+    		//console.log(e.keyCode);
+    		const audio = document.querySelector('audio[data-key="${e.keyCode}"]');
+    		if(!audio) return; //stop function
+    		audio.currentTime = 0;
+    		audio.play();
+    	});
+    </script>
+</body>
+
+</html>

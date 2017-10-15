@@ -1,0 +1,67 @@
+body {
+  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/reader/bg.png');
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+p {
+  margin: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+.articles {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.article {
+  color: #222;
+  background: rgba(255,255,255,.9);
+  border-spacing: 2px;
+  border-color: gray;
+  font-family: arial,sans-serif;
+  border-bottom: 1px #e5e5e5 solid;
+}
+
+.current .item {
+  background: rgba(206,220,206,.9);
+}
+
+.item {
+  cursor: pointer;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  
+}
+
+.item .source {
+  margin-left: 20px;
+}
+
+.item .title {
+  font-weight: bold;
+}
+
+.item .pubdate {
+  margin-right: 20px;
+}
+
+.item .pubdate {
+  text-align: right;  
+}
+
+.description {
+  display: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.description h1 {
+  margin-top: 0px;
+  font-size: 23px;
+}

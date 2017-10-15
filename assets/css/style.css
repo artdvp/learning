@@ -1,0 +1,81 @@
+main {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#contact .fa {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.scrolling-navbar {
+    -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+    background-color: #1C2331;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #1C2331;
+    }
+}
+
+.description {
+    padding-top: 25%;
+    padding-bottom: 3rem;
+    color: #fff
+}
+
+@media (max-width: 992px) {
+    .description {
+        padding-top: 7rem;
+        text-align: center;
+    }
+}
+
+.leitbild-text {
+    font-size: 2em;
+    line-height: 2em;
+    height: 5em;
+    display: table;
+    vertical-align: middle margin: auto;
+}
+
+.carousel .item img {
+    left: -9999px;
+    /*important */
+    right: -9999px;
+    /*important */
+    margin: 0 auto;
+    /*important */
+    max-width: none;
+    /*important */
+    min-width: 100%;
+    position: absolute;
+}
+
+.m-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-columns .card {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
