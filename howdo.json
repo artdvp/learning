@@ -50,30 +50,37 @@
   },
   {
     "title": "Slidebar Left",
-    "detail": "Slide Left",
+    "detail": "Slide Left #codeacademy",
     "picture_url": "https://image.ibb.co/kWNziw/6130262550511616.jpg",
     "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c1_index.html",
     "path_src": ""
   },
   {
     "title": "News Readers",
-    "detail": "jQuery News Readers",
+    "detail": "jQuery News Readers #codeacademy",
     "picture_url": "https://image.ibb.co/dXXMwG/codec_2.jpg",
     "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c2_newsreaders.html",
     "path_src": ""
   },
    {
     "title": "Status Update",
-    "detail": "jQuery update",
+    "detail": "jQuery update #codeacademy",
     "picture_url": "https://image.ibb.co/iOMQOw/codec_3.png",
     "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c3_statusupdate.html",
     "path_src": ""
   },
   {
     "title": "Flipboard",
-    "detail": "Flipboard Jquery",
+    "detail": "Flipboard Jquery #codeacademy",
     "picture_url": "https://image.ibb.co/fKxbVb/codec_4.jpg",
     "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/makeweb-1/c4_flipboard.html",
+    "path_src": ""
+  },
+  {
+    "title": "Flipboard",
+    "detail": "Flipboard Jquery #codeacademy",
+    "picture_url": "https://image.ibb.co/fKxbVb/codec_4.jpg",
+    "path_url": "https://www.artdvp.me/learning/howdo/codeacademy/make-web-site-n/",
     "path_src": ""
   },
   {
@@ -88,6 +95,13 @@
     "detail": "sass bootstrap",
     "picture_url": "https://image.ibb.co/fKmbfb/sasslight.jpg",
     "path_url": "https://www.artdvp.me/learning/howdo/sasslight/",
+    "path_src": ""
+  },
+  {
+    "title": "jQuery Badges",
+    "detail": "codeschool",
+    "picture_url": "https://image.ibb.co/fKmbfb/sasslight.jpg",
+    "path_url": "https://www.artdvp.me/jQueryBadgesProject/",
     "path_src": ""
   }
 ]
