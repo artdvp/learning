@@ -14,8 +14,7 @@
 >>> - [Amazing Space](https://run.plnkr.co/preview/cjbkmawqh00043a5yw7xg9mc8/) 
 
 > Codecourse
->> - [x] [CSS Fullscreen Background Image](https://www.codecourse.com/lessons/css-fullscreen-background-image/86)
->>> - [demo](https://codepen.io/artdvp/pen/eBExPO)
+>> - [x] [CSS Fullscreen Background Image](https://www.codecourse.com/lessons/css-fullscreen-background-image/86) >> [demo](https://codepen.io/artdvp/pen/eBExPO)
 
 > Web Page
 >> - [x] [Lightbox Photo Library](https://artdvp.github.io/lightbox-photo/) >> [github](https://github.com/artdvp/lightbox-photo)
@@ -31,7 +30,7 @@
 > Vue Ecosystem
 
 >> Vuex
->> - [x] [howto-vuex](https://artdvp.github.io/howto-vuex/#/) >> [github](https://github.com/artdvp/howto-vuex)
+>> - [x] [howto-vuex](https://artdvp.github.io/howto-vuex/#/) >> [Github](https://github.com/artdvp/howto-vuex)
 
 > Nuxt.js
 >> Youtube 
