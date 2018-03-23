@@ -58,11 +58,3 @@
 
 > IFTTT Medium Claps
 - https://github.com/artdvp/medium/issues
-
-### Developer Cool
-
-> Vicky || design and develop girl
-- Personal Site > https://vickylai.io/
-- Codepen > https://codepen.io/hivickylai/
-- Github > https://github.com/hivickylai
-- Twitter > https://twitter.com/hivickylai
