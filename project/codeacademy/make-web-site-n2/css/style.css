@@ -1,0 +1,90 @@
+/* Styles go here */
+
+html,
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    line-height: 1.5;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url('https://picsum.photos/2048/1367?blur');
+    background-position: center top;
+    background-size: cover;
+    margin: 0;
+}
+.page-title {
+    text-align: center;
+    font-weight: 300;
+}
+.page-description {
+    border: 1px solid #000;
+    text-align: center;
+    /*3. working with padding*/
+    
+    padding: 30px;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.gallery-item {
+    margin: 20px;
+    /*#2. Create Border*/
+    
+    border: 5px solid #fff;
+}
+.gallery-item .thumbnail {}
+/* FOOTER NAVIGATION */
+
+nav {
+    background-color: #f4f5f7;
+}
+nav li {
+    margin: 0;
+    padding: 0 10px;
+    display: inline;
+}
+nav ul {
+    display: inline;
+}
+.contact-btn {
+    /*#8. Using Float*/
+    
+    float: right;
+}
+/*
+.contact-btn a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+}
+
+.contact-btn a:active {
+  top: 2px;
+}
+*/
+
+.contact-btn a {
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid #204156;
+    position: relative;
+}
+.contact-btn a:active {
+    position: relative;
+    bottom: 2px;
+    top: 2px;
+}
+nav a {
+    height: 60px;
+    line-height: 60px;
+    color: #204156;
+    text-decoration: none;
+}
