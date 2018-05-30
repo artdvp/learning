@@ -11,3 +11,4 @@ keep code
 -----
 
 - [ ] Web Developer Bootcamp
+- [ ] Vue.js Complete Guide
